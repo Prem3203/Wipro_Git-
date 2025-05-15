@@ -1,0 +1,3 @@
+This is an sample file to initialize an new repository.
+Line nimber 2,
+line number 3.
